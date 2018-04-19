@@ -56,7 +56,7 @@ k = [.05, .05, .05, .05, .05, .05, .05, .05, .05, .05, .05, .05, .05, .05, .05, 
 xNS = np.convolve(k, xNS)
 xV = np.convolve(k, xV)
 XEW = np.convolve(k, xEW)
-plt.plot(xNS)fdgsgsdgd
+plt.plot(xNS)fdgfgfd
 ###############################################################################
 #GOAL: Perform the H/V
 
